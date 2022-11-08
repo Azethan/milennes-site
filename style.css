@@ -1,0 +1,16 @@
+body{
+    background: #2e2c2f;
+}
+a{
+    color: white;
+}
+.main{
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+}
+.main h1{
+    font-size: 6rem;
+}
